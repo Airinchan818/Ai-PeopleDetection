@@ -35,6 +35,7 @@ system minimum:
 - ram: 8gb
 
 model spectification:
+-----------------------------
 - backbone: Super Micro Vision Transformers
 - size: 3mb
 - sfesifik task: people detection
