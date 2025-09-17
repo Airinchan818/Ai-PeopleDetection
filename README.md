@@ -14,7 +14,15 @@ SMVIT is a hybrid approach, inspired by YOLO-style detection heads and DETR’s 
 
 - 🔬 Designed from scratch, not just YOLO/ResNet fine-tuning
 
-with this project, you can run Ai by CLI : 
+how to use: 
+-------------
+- open command line move to file your download
+  download:
+  bash
+  ```
+    git clone 
+  ```
+- run system by CLI:
 bash 
 ```
   python -m main
