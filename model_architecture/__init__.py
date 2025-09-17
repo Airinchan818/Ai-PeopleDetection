@@ -1,0 +1,1 @@
+from .PeopleDetectionModel import ObjectDetectionModel
