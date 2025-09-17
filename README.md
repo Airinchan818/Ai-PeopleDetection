@@ -1,5 +1,7 @@
 # Ai-PeopleDetection
 
+![sample](./download.png)
+
 suport this project : https://ko-fi.com/alpin92578
 
 tools you need to install:
