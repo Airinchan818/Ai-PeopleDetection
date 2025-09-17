@@ -1,6 +1,7 @@
 # Ai-PeopleDetection
 
 ![sample](./download.png)
+![sample](./sample.png)
 
 suport this project : https://ko-fi.com/alpin92578
 
