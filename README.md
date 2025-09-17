@@ -20,7 +20,7 @@ how to use:
   download:
   bash
   ```
-    git clone 
+    git clone https://github.com/Airinchan818/Ai-PeopleDetection.git
   ```
 - run system by CLI:
 bash 
