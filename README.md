@@ -48,6 +48,10 @@ model spectification:
 - size: 3mb
 - sfesifik task: people detection
 
+Author:
+-----------------
+Script and Ai model creator: Candra Alpin Gunawan
+
 credit:
 ------------------------------
 - image processing: opencv 
